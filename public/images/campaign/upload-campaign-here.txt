@@ -1,0 +1,7 @@
+Upload campaign images here:
+- campaign-01.png
+- campaign-02.png
+- campaign-03.png
+- campaign-04.png
+- campaign-05.png
+- campaign-06.png

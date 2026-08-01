@@ -1,0 +1,7 @@
+Upload product images here:
+- heavyweight-tee.png
+- oversized-hoodie.png
+- tracksuit.png
+- beanie.png
+- gym-collection.png
+- tennis-collection.png
